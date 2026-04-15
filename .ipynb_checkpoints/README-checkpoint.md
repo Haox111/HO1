@@ -6,7 +6,7 @@ This was documented in Hands-On 0: https://github.com/ucsc-cse-40/HO0
 In this assignment, you will pre-process and analyze synthetic data (i.e., data produced by an algorithm rather than collected from the real world).
 
 The objective of this assignment is for you to learn about:
- - Data manipulation (selecting, adding, and removing rows and columns).
+ - Data manipulation (selecting, adding, removing rows and columns).
  - Data exploration (understanding the structure and contents of a dataset).
  - Data selection (filtering rows and columns).
  - Feature engineering (pre-processing data for use with machine learning).
